@@ -76,7 +76,8 @@
 - Android Studio에서 프로젝트를 열고, 필요한 권한(예: `BLUETOOTH`, `BLUETOOTH_ADMIN`)을 AndroidManifest.xml에 추가합니다.
 - 블루투스 연결 및 데이터 수신 관련 코드를 컴파일 후 실행합니다.
 - **앱 UI 스크린샷:**  
-  ![앱 UI 영상]([./media/demo1.mp4](https://youtube.com/shorts/x9Kfd4WausA?feature=share))
+  [![앱 UI 영상](./media/demo1.png)](https://youtube.com/shorts/x9Kfd4WausA?feature=share)
+
 
 ### 3. Firebase 연동
 - Firebase에서 프로젝트를 생성하고 실시간 데이터베이스를 설정합니다.
@@ -88,4 +89,4 @@
 
 ## 데모 영상
 프로젝트의 그래프 출력 동작 과정을 보여주는 데모 영상을 아래 링크에서 확인할 수 있습니다.  
-[데모 영상 보기]([./media/demo2.mp4](https://youtube.com/shorts/W_HOsJLUbBI?feature=share))
+[![데모 영상 보기](./media/demo2.png)](https://youtube.com/shorts/W_HOsJLUbBI?feature=share)
