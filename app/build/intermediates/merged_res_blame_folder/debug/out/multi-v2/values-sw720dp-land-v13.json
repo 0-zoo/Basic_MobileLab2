@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.demo01.app-mergeDebugResources-39:/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\2f3ce095e54c209fe66aaf207838c1b8\\transformed\\bluetoothspp-1.0.0\\res\\values-sw720dp-land-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "239,292",
+                        "endColumns": "52,54",
+                        "endOffsets": "287,342"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,54",
+                        "endOffsets": "103,158"
+                    }
+                }
+            ]
+        }
+    ]
+}

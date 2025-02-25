@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Demo01</string>
+    <string name="todo">TODO</string>
+    <string name="record">Record</string>
+    <string name="check">Check</string>
+    <string name="logout">Logout</string>
+    <string name="appname">심장이 바운스바운스</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="google_login">Google Login</string>
+    <string name="bluetooth">BT</string>
+    <string name="sBTaNF" />
+    <string name="sBTdevNF" />
+</resources>
